@@ -11,4 +11,8 @@ package tarea2git_davidmartin;
  */
 public class Jugador {
     
+    public String nombre;
+    public int votos;
+    public int id;   
+    
 }
