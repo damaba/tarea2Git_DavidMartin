@@ -15,7 +15,8 @@ public class Tarea2Git_DavidMartin {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Jugador jugador1 = new Jugador("Puyol","100","01");
     }
     
 }
