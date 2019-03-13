@@ -16,7 +16,7 @@ public class Tarea2Git_DavidMartin {
      */
     public static void main(String[] args) {
         
-        Jugador jugador1 = new Jugador("Puyol","100","01");
+        Jugador jugador1 = new Jugador("Puyol",100,01);
     }
     
 }
